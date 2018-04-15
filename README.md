@@ -5,17 +5,8 @@
 > 
 > I'm a big Fan of `Laravel` Framework And Big Thanks To `Taylor Otwell` and Other Contributors For His Great Framework, So You Might Find here Some method names like in Laravel
 
-### License
-
->This Work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
->
-[![Link](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
-
-### Copyright
->@author	__Ahmed Saad__ <a7mad.sa3d.2014@gmail.com> 2012-2016
-
 ### Version
-> 2.0.0
+> 1.0.0
 
 ### Requirements
 > Framework uses Clean URIs so it needs `mod_rewrite` apache module to be enabled
